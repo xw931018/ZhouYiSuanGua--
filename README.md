@@ -1,7 +1,7 @@
 # ZhouYiSuanGua--
 一个简易的模拟大衍揲蓍法算卦的小notebook。以大衍之数，蓍草为媒，诚心问卜，引而伸之，触类而长之，天下之能事毕矣
 
-This is a simple toy peoject motivated by one of the most ancient Chinese devination, I Ching, or translated as 'The Book of Changes'.
+This is a simple toy project motivated by one of the most ancient Chinese devination, I Ching, or translated as 'The Book of Changes'.
 
 I Ching was originally  manuscripted more than 2500 years ago (1000-700 BC), used by our ancestors to tell the fortune. 
 
